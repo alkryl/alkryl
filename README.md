@@ -9,7 +9,7 @@ I'm Alexander, iOS developer from St. Petersburg, Russia 🇷🇺.
 #### where to find me:
 
 <p align="left">
-<a href="https://github.com/alkryl" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="alkryl" height="35" width="35"/></a>
+<a href="https://github.com/alkryl" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/github.png" alt="alkryl" height="35" width="35"/></a>
 <a href="https://t.me/alkryl" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="alkryl" height="27" width="27"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/alkryl" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647346913~hmac=5e374825114ebfbdaefebbd8890665d2" alt="alkryl" height="27" width="27" /></a>&nbsp;&nbsp;
 <a href="mailto:alexkrylov.dev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="32" width="32" /></a>&nbsp;
