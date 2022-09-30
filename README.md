@@ -1,6 +1,6 @@
 ### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="25" width="25"/>
 
-I'm Alexander, iOS developer from St. Petersburg, Russia 🇷🇺.
+I'm Alexander, iOS developer from St. Petersburg.
 
 #### languages & tools:
 
